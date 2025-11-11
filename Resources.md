@@ -17,3 +17,9 @@
 [KrishNaik_YT](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 
 [Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+
+### **Transformer Architecture**
+
+[CampusX](https://www.youtube.com/playlist?list=PLGP2q2bIgaNyPuz1ZDoQudpwXYClgHquK)
+
+[KrishNaik](https://www.youtube.com/watch?v=3bPhDUSAUYI)
