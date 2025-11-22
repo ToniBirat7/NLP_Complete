@@ -1,30 +1,9 @@
-.venv/
-
-# Do not push model checkpoints
-checkpoints/
-
-# Do not push trained models PyTorch or TensorFlow
+# Ignore model weights (large files)
+*.safetensors
+*.bin
+*.pth
 *.pt
-*.h5
-*.pkl
 
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore dataset cache files
-dataset_cache/
-
-# Ignore VSCode settings
-.vscode/
-
-# Ignore Python bytecode files
-__pycache__/
-*.pyc
-
-# Ignore logs
-logs/
-*.log
-
-# Ignore environment files
-.env
-.env.local
+# Ignore HuggingFace/SetFit model directories
+setfit-*/ 
+models/
