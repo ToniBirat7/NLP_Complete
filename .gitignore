@@ -3,7 +3,11 @@
 *.bin
 *.pth
 *.pt
+*.pkl
 
 # Ignore HuggingFace/SetFit model directories
-setfit-*/ 
+setfit-*/
 models/
+
+# Ignore local virtual environments
+.venv/
