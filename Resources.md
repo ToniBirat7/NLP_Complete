@@ -1,5 +1,10 @@
 ## **Resources**
 
+**Best YouTube Channel To Learn `How To Train Your Own NLP Models`**
+
+[Sebastian_Raschka](https://www.youtube.com/@SebastianRaschka/playlists)
+
+
 ### **NLP Playlist**
 
 [KN_Udemy](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/learn/lecture/43996010#overview)
