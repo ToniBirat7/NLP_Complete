@@ -1,0 +1,10 @@
+name: NVIDIA Config
+version: 1.0.0
+schema: v1
+
+models:
+  - name: Kimi K2 Instruct
+    provider: openai
+    model: moonshotai/kimi-k2-instruct
+    apiKey: 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
+    apiBase: https://integrate.api.nvidia.com/v1
